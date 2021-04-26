@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukeSky3434 
+- 👋 Hi, I’m Lukas Pendl @lukeSky3434 
 - 👀 I’m interested in new Technologies
 - 🌱 I’m currently learning a lot about scalable software
 - 📫 You can reach me by email => lukaspendl@gmx.at
